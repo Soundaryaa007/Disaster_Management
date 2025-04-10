@@ -1,0 +1,6 @@
+@Project7.Services.ResourceAPI_HostAddress = http://localhost:5129
+
+GET {{Project7.Services.ResourceAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

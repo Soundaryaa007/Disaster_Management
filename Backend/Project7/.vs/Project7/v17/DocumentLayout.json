@@ -1,12 +1,48 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Capstone Project\\Disaster Management\\Soundaryaa007\\Disaster_Management\\Backend\\Project7\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D7145CF3-CB55-6711-D2B3-011D7F6E7BAB}|C:\\Users\\Administrator\\source\\repos\\Project7\\Project7.Services.VictimAPI\\Project7.Services.VictimAPI.csproj|c:\\users\\administrator\\source\\repos\\project7\\project7.services.victimapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D7145CF3-CB55-6711-D2B3-011D7F6E7BAB}|C:\\Users\\Administrator\\source\\repos\\Project7\\Project7.Services.VictimAPI\\Project7.Services.VictimAPI.csproj|c:\\users\\administrator\\source\\repos\\project7\\project7.services.victimapi\\data\\victimcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Project7\\Project7.Services.VictimAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Project7\\Project7.Services.VictimAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-10T07:23:42.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VictimContext.cs",
+              "DocumentMoniker": "C:\\Users\\Administrator\\source\\repos\\Project7\\Project7.Services.VictimAPI\\Data\\VictimContext.cs",
+              "ToolTip": "C:\\Users\\Administrator\\source\\repos\\Project7\\Project7.Services.VictimAPI\\Data\\VictimContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T07:23:33.077Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

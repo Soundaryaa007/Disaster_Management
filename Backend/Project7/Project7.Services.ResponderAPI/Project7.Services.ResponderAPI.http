@@ -1,0 +1,6 @@
+@Project7.Services.ResponderAPI_HostAddress = http://localhost:5125
+
+GET {{Project7.Services.ResponderAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
